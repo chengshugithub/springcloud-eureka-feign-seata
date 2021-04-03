@@ -14,7 +14,7 @@ import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 
 /**
  * 数据源代理
- * @author wangzhongxiang
+ * @author cs
  */
 @Configuration
 public class DataSourceConfiguration {
