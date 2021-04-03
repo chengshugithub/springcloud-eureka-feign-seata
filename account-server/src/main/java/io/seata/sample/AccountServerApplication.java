@@ -10,6 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 /**
  * 账户服务
  * @author wangzhongxiang
+ * 123
  */
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 @MapperScan("io.seata.sample.dao")
